@@ -1,6 +1,6 @@
 {
   "name": "jsmin-node",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "library for NodeJS",
   "main": "dist/_.js",
   "types": "dist/_.d.ts",
